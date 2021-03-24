@@ -1,0 +1,8 @@
+---
+title: learning to reference figures, tables, and sections
+author: Arthur Andersen Widjaya
+date: "`r Sys.Date()`"
+output:
+    bookdown::html_document2
+keep_md: true
+---
